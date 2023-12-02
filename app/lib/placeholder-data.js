@@ -71,7 +71,7 @@ const customers = [
     image_url: '/customers/balazs-orban.png',
   },
 ];
-
+//This is a great way to learn again. Thanks Michela and Jean Marie for bringing me on!!
 const invoices = [
   {
     customer_id: customers[0].id,
