@@ -8,7 +8,7 @@ export type User = {
   email: string;
   password: string;
 };
-
+//This is a lot more expansive than I first believed, lol.
 export type Customer = {
   id: string;
   name: string;
